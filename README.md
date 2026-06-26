@@ -34,41 +34,28 @@ Pada implementasinya, basis data telah dilengkapi dengan relasi antar tabel, nor
 
 # Entity Relationship Diagram (ERD)
 
-Masukkan gambar ERD hasil perancangan pada bagian ini.
+Berikut merupakan Entity Relationship Diagram (ERD) dari Sistem Penggajian Karyawan.
 
-Contoh:
-
-```
-docs/
-└── ERD SEMENTARA.jpeg
-```
-
-Kemudian tampilkan gambar menggunakan Markdown:
-
-```markdown
-![ERD Sistem Penggajian](docs/ERD SEMENTARA.jpeg)
-```
+![ERD](ERD.png)
 
 ---
 
 # Struktur Folder
 
 ```text
-Sistem_Penggajian/
+Sistem-Penggajian-Kelompok-3-Basis_data/
 │
 ├── README.md
-├── BACKUP SISTEM PENGGAJIAN.sql
+├── BACKUP_SISTEM_PENGGAJIAN.sql
 ├── Makalah.pdf
 ├── Presentasi.pptx
-│
-├── docs/
-│   ├── ERD.png
-│   ├── Relasi_Tabel.png
-│   └── Screenshot_Hasil_Query/
-│
-└── assets/
-    ├── Logo.png
-    └── Dokumentasi/
+├── ERD.jpeg
+└── Source Code/
+    ├── 01_DDL.sql
+    ├── 02_DML.sql
+    ├── 03_QUERY.sql
+    ├── 04_VIEW.sql
+    ├── 05_FUNCTION.sql
+    ├── 06_TRIGGER.sql
+    └── 07_STORED_PROCEDURE.sql
 ```
-
----
