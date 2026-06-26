@@ -36,7 +36,7 @@ Pada implementasinya, basis data telah dilengkapi dengan relasi antar tabel, nor
 
 Berikut merupakan Entity Relationship Diagram (ERD) dari Sistem Penggajian Karyawan.
 
-![ERD](ERD.png)
+![ERD](ERD_SistemPenggajian.png)
 
 ---
 
@@ -58,4 +58,5 @@ Sistem-Penggajian-Kelompok-3-Basis_data/
     ├── 05_FUNCTION.sql
     ├── 06_TRIGGER.sql
     └── 07_STORED_PROCEDURE.sql
+
 ```
