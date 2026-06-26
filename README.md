@@ -40,13 +40,13 @@ Contoh:
 
 ```
 docs/
-└── ERD SEMENTARA.JPEG
+└── ERD SEMENTARA.jpeg
 ```
 
 Kemudian tampilkan gambar menggunakan Markdown:
 
 ```markdown
-![ERD Sistem Penggajian](docs/ERD SEMENTARA.JPEG)
+![ERD Sistem Penggajian](docs/ERD SEMENTARA.jpeg)
 ```
 
 ---
