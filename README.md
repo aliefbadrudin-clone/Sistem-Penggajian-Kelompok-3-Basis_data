@@ -60,3 +60,5 @@ Sistem-Penggajian-Kelompok-3-Basis_data/
     └── 07_STORED_PROCEDURE.sql
 
 ```
+# link video
+https://drive.google.com/file/d/1h6zhyF8DWrQ-HCmcqMqStkw_ykaohWHm/view?usp=drive_link
