@@ -46,19 +46,18 @@ Berikut merupakan Entity Relationship Diagram (ERD) dari Sistem Penggajian Karya
 Sistem-Penggajian-Kelompok-3-Basis_data/
 │
 ├── README.md
-├── BACKUP_SISTEM_PENGGAJIAN.sql
-├── Makalah.pdf
-├── Presentasi.pptx
-├── ERD.jpeg
-└── Source Code/
-    ├── 01_DDL.sql
-    ├── 02_DML.sql
-    ├── 03_QUERY.sql
-    ├── 04_VIEW.sql
-    ├── 05_FUNCTION.sql
-    ├── 06_TRIGGER.sql
-    └── 07_STORED_PROCEDURE.sql
-
+├── BACKUP SISTEM PENGGAJIAN.sql
+├── 01_DDL SISTEM PENGGAJIAN.sql
+├── 02_DML SISTEM PENGGAJIAN.sql
+├── 03_QUERY SISTEM PENGGAJIAN.sql
+├── 04_VIEW SISTEM PENGGAJIAN.sql
+├── 05_STORED PROCEDURE SISTEM PENGGAJIAN.sql
+├── 06_TRIGGER SISTEM PENGGAJIAN.sql
+├── 07_FUNCTION SISTEM PENGGAJIAN.sql
+├── Data Sistem Penggajian.xlsx
+├── ERD_SistemPenggajian.png
+├── Kelompok E_Makalah Basis Data.pdf
+└── PPT SISTEM PENGGAJIAN KELOMPOK E.pdf
 ```
 # link video
 https://drive.google.com/file/d/1h6zhyF8DWrQ-HCmcqMqStkw_ykaohWHm/view?usp=drive_link
